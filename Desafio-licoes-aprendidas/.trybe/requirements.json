@@ -1,0 +1,92 @@
+{
+  "requirements": [
+    {
+      "bonus": false,
+      "description": "1-Adicione uma cor de fundo específica à página",
+      "enabled": true,
+      "identifier": null,
+      "order": 1,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "2-Adicione uma barra superior com um título",
+      "enabled": true,
+      "identifier": null,
+      "order": 2,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "3-Adicione uma foto sua à página",
+      "enabled": true,
+      "identifier": null,
+      "order": 3,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "4-Adicione uma lista de lições aprendidas à página",
+      "enabled": true,
+      "identifier": null,
+      "order": 4,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "5-Crie uma lista de lições que ainda deseja aprender para a página",
+      "enabled": true,
+      "identifier": null,
+      "order": 5,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "6-Adicione um rodapé para a página",
+      "enabled": true,
+      "identifier": null,
+      "order": 6,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "7-Insira pelo menos um link externo na página",
+      "enabled": true,
+      "identifier": null,
+      "order": 7,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "8-Crie um artigo sobre o seu aprendizado",
+      "enabled": true,
+      "identifier": null,
+      "order": 8,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "9-Crie uma tag html `aside` que contenha uma breve descrição sobre você",
+      "enabled": true,
+      "identifier": null,
+      "order": 9,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "10-Aplique elementos HTML de acordo com o sentido e propósito de cada um deles",
+      "enabled": true,
+      "identifier": null,
+      "order": 10,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "11-Teste a semântica da sua página usando o site [CodeSniffer]",
+      "enabled": true,
+      "identifier": null,
+      "order": 11,
+      "skill_ids": []
+    }
+  ]
+}

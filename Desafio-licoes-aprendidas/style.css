@@ -1,0 +1,60 @@
+body {
+  background-color: rgb(253, 251, 251);
+}
+
+#cabecalho {
+  top: 0;
+  position: fixed;
+}
+
+.img-style {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#minha_foto {
+  width: 300px;
+  height: auto;
+}
+
+.listas {
+  display: flex;
+  justify-content: space-around;
+}
+
+.listas p {
+  font-weight: 700;
+  justify-content: center;
+}
+
+.artigo {
+  display: flex;
+  text-align: justify;
+  align-items: center;
+  padding: 2% 10%;
+  font-size: 20px;
+}
+
+.artigo p {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.aside-text {
+  display: flex;
+  text-align: end;
+  align-items: end;
+  padding: 2% 5%;
+  font-size: 10px;
+}
+
+footer {
+  font-size: 25px;
+  text-align: center;
+}
+
+footer a {
+  text-decoration: none;
+}

@@ -21,11 +21,13 @@ A página utiliza uma abordagem estilística baseada em:
 ### HTML
 - Cabeçalho com barra de navegação e logo.
 - Seções principais: promoções, recursos Premium, planos disponíveis e rodapé.
+**[Clique Aqui](https://github.com/CaioHangai/HTML-CSS-Experience/blob/main/Clone%20Pagina%20Spotify/01-spotfy-page/index.htm) para acessar a página com a estrutura em HTML**
 
 ### CSS
 - Paleta de cores baseada em tons escuros e roxos.
 - Elementos estilizados, como listas personalizadas e botões arredondados.
 - Efeitos visuais para destacar a interação do usuário.
+-- **[Clique Aqui](https://github.com/CaioHangai/HTML-CSS-Experience/blob/main/Clone%20Pagina%20Spotify/01-spotfy-page/style.css) para acessar a página de estilo com CSS**
 
 ## 💻 Tecnologias
 

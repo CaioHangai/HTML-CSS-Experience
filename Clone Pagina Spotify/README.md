@@ -34,15 +34,19 @@ A página utiliza uma abordagem estilística baseada em:
 - **HTML5** para estruturação de conteúdo.
 - **CSS3** para estilização e design.
 
-## 📜 Como Usar
-
-1. Clone este repositório:
-2. Abra o arquivo `index.html` no navegador para explorar o design e funcionalidade.
-
 ## 📖 Informações Adicionais
 
 Este projeto é fictício e **não tem qualquer relação oficial com o Spotify**. Foi criado exclusivamente para fins de aprendizado.
 
 ## ✨ Créditos
 
-Desenvolvido por [Caio Hangai] como parte de estudos e práticas em desenvolvimento web.
+Desenvolvido por Caio Hangai como parte de estudos e práticas em desenvolvimento web.
+Linkedin: [www.linkedin.com/in/caiohangai](www.linkedin.com/in/caiohangai)
+
+## ✨ Resultado Final
+
+![Head](https://github.com/CaioHangai/HTML-CSS-Experience/blob/main/Clone%20Pagina%20Spotify/01-spotfy-page/printProject/print%20spotify1.png)
+
+![Body](https://github.com/CaioHangai/HTML-CSS-Experience/blob/main/Clone%20Pagina%20Spotify/01-spotfy-page/printProject/print%20spotify2.png)
+
+![Footer](https://github.com/CaioHangai/HTML-CSS-Experience/blob/main/Clone%20Pagina%20Spotify/01-spotfy-page/printProject/print%20spotify3.png)

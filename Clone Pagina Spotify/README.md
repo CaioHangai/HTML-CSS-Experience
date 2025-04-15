@@ -38,11 +38,6 @@ A página utiliza uma abordagem estilística baseada em:
 
 Este projeto é fictício e **não tem qualquer relação oficial com o Spotify**. Foi criado exclusivamente para fins de aprendizado.
 
-## ✨ Créditos
-
-Desenvolvido por Caio Hangai como parte de estudos e práticas em desenvolvimento web.
-**Linkedin: [https://www.linkedin.com/in/caiohangai](https://www.linkedin.com/in/caiohangai)**
-
 ## ✨ Resultado Final
 
 ![Head](https://github.com/CaioHangai/HTML-CSS-Experience/blob/main/Clone%20Pagina%20Spotify/01-spotfy-page/printProject/print%20spotify1.png)
@@ -50,3 +45,10 @@ Desenvolvido por Caio Hangai como parte de estudos e práticas em desenvolviment
 ![Body](https://github.com/CaioHangai/HTML-CSS-Experience/blob/main/Clone%20Pagina%20Spotify/01-spotfy-page/printProject/print%20spotify2.png)
 
 ![Footer](https://github.com/CaioHangai/HTML-CSS-Experience/blob/main/Clone%20Pagina%20Spotify/01-spotfy-page/printProject/print%20spotify3.png)
+
+## ✨ Créditos
+
+Desenvolvido por Caio Hangai como parte de estudos e práticas em desenvolvimento web.
+ <a href="https://www.linkedin.com/in/caiohangai" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Caio Hangai">
+</a>

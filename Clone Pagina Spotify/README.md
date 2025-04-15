@@ -41,7 +41,7 @@ Este projeto é fictício e **não tem qualquer relação oficial com o Spotify*
 ## ✨ Créditos
 
 Desenvolvido por Caio Hangai como parte de estudos e práticas em desenvolvimento web.
-Linkedin: [www.linkedin.com/in/caiohangai](www.linkedin.com/in/caiohangai)
+**Linkedin: [https://www.linkedin.com/in/caiohangai](https://www.linkedin.com/in/caiohangai)**
 
 ## ✨ Resultado Final
 

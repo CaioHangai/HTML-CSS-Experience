@@ -1,0 +1,121 @@
+*{
+    margin:0 ;
+    padding: 0;   
+}
+
+body{
+     display: flex;
+     flex-direction: column;
+     min-height: 100vh;
+    background-color: #171717;
+    color: white;
+}
+
+section{
+    flex: 1;
+    width: 767px;
+    margin: 20px auto;
+    background-color: #121212;
+    border: 1px solid #121212;
+    border-radius: 20px;
+    padding: 10px 15px;
+    text-align: center;
+}
+
+.logo-spotify{
+    font-size: 40px;
+}
+
+.logo-spotify h1{
+    font-size: 100px;
+    padding-bottom: 10px;
+}
+.social-buttons{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
+}
+
+.social-buttons button{
+    background-color: #121212;
+    color: white;
+    padding: 10px 35px;
+    border: 1px solid white;
+    border-radius: 100px;
+    margin: 10px;
+    display: flex;
+}
+
+.social-buttons button span{
+    margin: auto;
+}
+
+.social-buttons button:hover{
+    padding: 15px 40px;
+}
+
+section h1{
+    font-size: 40px;
+}
+
+hr{
+    margin: 15px;
+    border: 0;
+    border-top: 1px solid #252525;
+}
+
+.action-login{
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+.action-login input{
+    display: flex;
+    background-color: #121212;
+    color: white;
+    padding: 12px 38px;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin: 10px;
+    width: 50%;
+    margin: auto;
+}
+
+.action-login label{
+    padding: 10px;
+}
+
+.action-login button{
+    background-color: #1abc54;
+    font-size: 16px;
+    font-weight: 700;
+    color: #121212;
+    padding: 12px 38px;
+    border: 1px solid #1abc54;
+    border-radius: 100px;
+    width: 50%;
+    margin: 30px auto;
+}
+
+section a{
+    color: white;
+    padding: 10px 10px;
+}
+
+section p {
+    color: #b3b3b3;
+    padding: 10px 10px;
+}
+footer{
+    background-color: #121212;
+    text-align: center;
+    padding: 20px 30px;
+    color: #b3b3b3;
+    font-size: 10px;
+}
+
+footer a{
+    color: #b3b3b3;
+}

@@ -14,10 +14,10 @@
 - 🎨 **TailwindCSS:** Estilização responsiva.
 - 💡 **Bootstrap Icons:** Ícones modernos para um design atraente.
 
+🔗 [Clique aqui e acesse o código](https://github.com/CaioHangai/HTML-CSS-Experience/blob/main/Trabalhando%20comTwindCss/src/index.html)
+
 ## 🚀 Como Usar
 1. Clone este repositório para sua máquina local:
-   ```bash
-   git clone https://github.com/seu-usuario/trybe-videos.git
 
 2. Abra o arquivo index.html em seu navegador preferido 🌟
 
@@ -35,5 +35,3 @@
 Adoraríamos sua ajuda! 🧑‍💻 Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 Nota: Este projeto é apenas uma demonstração inicial e pode ser expandido com novas ideias! 🚧💡
-
- 
